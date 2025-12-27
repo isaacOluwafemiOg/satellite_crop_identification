@@ -67,8 +67,8 @@ pip install rasterio==1.4.4 pandas==2.2.3 numpy==1.26.4 matplotlib==3.7.2 scipy=
 3.  **Output:** The final submission file will be generated as `submission.csv`.
 
 ## 📊 Performance
-*   **Training F1-Score:** 1.0 (High capacity)
-*   **Cross-Validation F1-Score:** ~0.8978
+*   **Training F1-Score:** 0.99987 (High capacity)
+*   **Cross-Validation F1-Score:** ~0.89147
 *   **Test Class Distribution:** Rubber (~42%), Oil Palm (~38%), Cocoa (~20%).
 
 ---
